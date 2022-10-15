@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import HelloWorld from './components/HelloWorld'
+import AnAvatar from './components/TheAvatar'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         <p>
           Here is some content. <HelloWorld/>
         </p>
+        <AnAvatar/>
       </header>
     </div>
   );
