@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import HelloWorld from './components/HelloWorld'
 import AnAvatar from './components/TheAvatar'
+import ButtonBases from './components/ComplexButtons'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Here is some content. <HelloWorld/>
         </p>
         <AnAvatar/>
+        <ButtonBases/>
       </header>
     </div>
   );
