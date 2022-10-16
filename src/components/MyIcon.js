@@ -1,9 +1,10 @@
 import ThunderstormOutlined from '@mui/icons-material/ThunderstormOutlined'
+import HomeOutlined from '@mui/icons-material/HomeOutlined'
 
-function ThunderIcon() {
+function HomeIcon() {
     return (
-        <ThunderstormOutlined/>
+        <HomeOutlined/>
     )
 }
 
-export default ThunderIcon;
+export default HomeIcon;
