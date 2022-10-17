@@ -3,6 +3,7 @@ import HelloWorld from './components/HelloWorld'
 import AnAvatar from './components/TheAvatar'
 import ButtonBases from './components/ComplexButtons'
 import HomeIcon from './components/MyIcon'
+import Mountain from './components/Mountain';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           Here is some content. <HelloWorld/>
         </p>
         <AnAvatar/>
+        <Mountain/>
         <HomeIcon/>
         <ButtonBases/>
       </header>

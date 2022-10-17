@@ -1,9 +1,9 @@
-import '../static/Mountain.css'
+// import '../static/Mountain.css'
 
 function Mountain() {
     return (
         <p>
-            I like to hike
+            I like to hike 🌄
         </p>
     )
 }
